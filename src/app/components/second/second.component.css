@@ -5,11 +5,11 @@ div{
    margin-top: 80px;
 }
 img{
-  width:80%;  height: 300px;
+  width:70%;  height: 300px;
 }
 .but{
-  margin: 10px;
-  width: 80px;
+  margin-left: 40px;
+  width: 100px;
   background-color: orange;
   border: 0ch;
   padding: 5px;
